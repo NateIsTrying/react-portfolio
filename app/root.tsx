@@ -28,6 +28,8 @@ export default function App() {
           <Link to="/home">Home</Link>
           <Link to="/about">About</Link>
           <Link to="/contact">Contact</Link>
+          <Link to="/portfolio">Portfolio</Link>
+          <Link to="/blog">Blog</Link>
         </nav>
         <Outlet />
         <ScrollRestoration />
