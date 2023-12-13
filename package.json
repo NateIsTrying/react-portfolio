@@ -19,14 +19,22 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
+    "@prisma/client": "^5.7.0",
     "@remix-run/dev": "^2.3.1",
     "@remix-run/eslint-config": "^2.3.1",
     "@types/react": "^18.2.20",
     "@types/react-dom": "^18.2.7",
     "eslint": "^8.38.0",
+    "prisma": "^5.7.0",
     "typescript": "^5.1.6"
   },
   "engines": {
     "node": ">=18.0.0"
-  }
+  },
+  "description": "- [Remix Docs](https://remix.run/docs)",
+  "version": "1.0.0",
+  "main": "remix.config.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
